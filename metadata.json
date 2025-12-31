@@ -1,0 +1,7 @@
+{
+  "name": "LastMile - Pre-Trip Planner",
+  "description": "A smart pre-trip planning tool that compares driving vs. walking with last-mile precision, parking intelligence, and social snapshot sharing.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
